@@ -1,6 +1,6 @@
 ## Hi there! I'm Sampaio. 👋
 
-<a href="https://sampaioleal.vercel.app">Site Pessoal</a>
+<a href="https://sampaioleal.dev.br">Site Pessoal</a>
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=SampaioLeal&show_icons=true&theme=onedark&title_color=009a00&text_color=000000&bg_color=ffffff&locale=en" alt="SampaioLeal" /></p>
 
