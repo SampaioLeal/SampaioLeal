@@ -4,6 +4,9 @@
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=SampaioLeal&show_icons=true&theme=onedark&title_color=009a00&text_color=000000&bg_color=ffffff&locale=en" alt="SampaioLeal" /></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Connect with Me
 
 <p>  
